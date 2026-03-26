@@ -1,0 +1,15 @@
+site_name: Liminalism
+nav:
+  - Home: index.md
+  - Introduction: introduction.md
+  - Thresholds: thresholds.md
+  - Multiplicities: multiplicities.md
+  - Narrative: narrative.md
+  - Attention: attention.md
+  - Truth & Meaning: truth-and-meaning.md
+  - Ethics at the Threshold: ethics.md
+  - Collective Thresholds: collective-thresholds.md
+  - Connections: connections.md
+  - Suffering: suffering.md
+  - Cosmic Participation: cosmic-participation.md
+theme: material
